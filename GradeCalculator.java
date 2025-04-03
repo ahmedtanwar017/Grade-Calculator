@@ -51,3 +51,4 @@ public class GradeCalculator {
         System.out.println("Grade: " + grade);
     }
 }
+//Changes
